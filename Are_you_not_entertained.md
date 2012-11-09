@@ -1,7 +1,7 @@
 # Are you not entertained? Is this not why you are here?
 
 <a style="float:center" href="http://www.youtube.com/watch?v=FsqJFIJ5lLs" target="_blank">
-  <img alt="Gladiator" src="https://github.com/ebbflowgo/essays/blob/master/images/areyounotentertained.png" width="320" height="320" />
+  <img alt="Gladiator" src="https://github.com/ebbflowgo/essays/tree/master/images/areyounotentertained.png" width="320" height="320" />
 </a>
 
 The title comes from a well known scene in the movie Gladiator. If you haven't seen it, you should. Click the image to view it. 
@@ -25,4 +25,4 @@ of the security that comes with a decent pay cheque
 They need the money for survival and have dependants that take up their time
 They are oddly not interested in changing their position or experiencing new things in their life
 
-<img alt="Maslows Hierarchy" src="https://github.com/ebbflowgo/essays/blob/master/images/Maslows_Hierarchy_of_Needs.png" width="400" height="300" />
+<img alt="Maslows Hierarchy" src="https://github.com/ebbflowgo/essays/tree/master/images/Maslows_Hierarchy_of_Needs.png" width="400" height="300" />
