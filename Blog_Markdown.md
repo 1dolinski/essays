@@ -3,7 +3,7 @@
 %h6 For code blocks
 ```
 For 
-  ````[language name]
+  ```[language name]
     code
-  ````
+  ```
 ```
