@@ -1,6 +1,6 @@
 ###### A Simple Markdown Repository
 
-<h6> For code blocks </h6>
+%h6 For code blocks
 ```
 For 
   ```[language name]
@@ -8,8 +8,6 @@ For
   ```
 ```
 
-
-
-    <blockquote>
-        <p>For example.</p>
-    </blockquote>
+<blockquote>
+    <p>For example.</p>
+</blockquote>
