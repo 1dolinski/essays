@@ -1,6 +1,7 @@
 # Are you not entertained? Is this not why you are here?
 
 ![Image Alt](https://github.com/ebbflowgo/essays/raw/master/images/areyounotentertained.png)
+
 http://www.youtube.com/watch?v=FsqJFIJ5lLs
 
 The title comes from a well known scene in the movie Gladiator. If you haven't seen it, you should. Click the image to view it. 
