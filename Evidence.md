@@ -1,3 +1,5 @@
+Linked from [Astonj](http://astonj.com/life/richard-dawkins-letter-to-his-10-year-old-daughter/)
+
 Richard Dawkins letter to his 10 year old daughter
 
 This letter was written by Richard Dawkins, and given to his daughter when she turned 10. Richard Dawkins is a respected scientist and author.
